@@ -1,0 +1,119 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+#main_section{
+	background: seagreen;
+	height: 100vh;
+}
+
+header{
+	text-align:center;
+}
+header h1{
+    padding-top: 37px;
+    margin: 0;
+    font-weight: 100;
+    color: rgba(206, 204, 204, 0.53);
+}
+header h1 b{
+	color: white;
+}
+header p{
+    display: inline-block;
+    width: 649px;
+    max-width: 100%;
+    color: rgba(206, 204, 204, 0.53);
+}
+header p a{
+    text-decoration: none;
+    font-size: 13px;
+    color: white;	
+}
+.body{
+    margin-top: 213px;
+}
+.form_one{
+    width: 368px;
+    display: inline-block;
+    background: #3F51B5;
+    margin-left: 189px;
+}
+.header_left{
+	float: left;
+}
+.header_left h3{
+    padding-left: 15px;
+    font-size: 22px;
+    color: rgba(206, 204, 204, 0.53);
+}
+.header_left p{
+    padding-left: 15px;	
+    color: rgba(206, 204, 204, 0.53);
+}
+.header_right{
+	float:right;
+}
+.header_right i{
+    color: rgba(206, 204, 204, 0.53);
+    font-size: -webkit-xxx-large;
+    margin-right: 21px;
+    margin-top: 17px;	
+}
+.form_one form{
+    margin-left: -21px;
+}
+.form_one form ul{
+    list-style: none;
+}
+.form_one form ul li{
+    margin-bottom: 10px;
+}
+.form_one form ul input{
+    padding: 8px;
+    padding-right: 145px;
+}
+.form_one form ul li a {
+    text-decoration: none;
+    color: rgba(206, 204, 204, 0.53);   
+    background: rgba(37, 163, 214, 0.74);
+    padding: 3px;
+    padding-left: 132px;
+    padding-right: 142px;
+    padding-bottom: 10px;
+}
+.btn{
+    text-decoration: none;
+    color: rgba(206, 204, 204, 0.53);   
+    background: rgba(37, 163, 214, 0.74);
+    padding: 3px;	
+}
+.social{
+
+}
+.social p{
+    margin-top: 25px;
+    text-align: center;	
+}
+.social ul{
+    list-style: none;
+    text-decoration: none;
+}
+.social ul li{
+    display: inline-block;	
+}
+.social ul li a{
+    text-decoration: none;
+    background: #607D8B;
+    padding: 5px;	
+}
+.form_two form ul li a{
+    text-decoration: none;
+    color: rgba(206, 204, 204, 0.53);
+    background: rgba(37, 163, 214, 0.74);
+    padding: 3px;
+    padding-left: 132px;
+    padding-right: 116px;
+    padding-bottom: 10px;
+}
